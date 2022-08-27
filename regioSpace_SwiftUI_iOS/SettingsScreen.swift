@@ -11,9 +11,7 @@ struct SettingsScreen: View {
     var body: some View {
         NavigationView {
             VStack {
-                
-                
-                
+                 
             }
             .toolbar {
                 ToolbarItem(placement: .navigationBarTrailing) {

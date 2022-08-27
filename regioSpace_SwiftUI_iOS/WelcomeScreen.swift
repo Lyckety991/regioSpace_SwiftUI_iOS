@@ -71,9 +71,7 @@ struct WelcomeScreen: View {
                                 .foregroundColor(.white)
                             
                             )
-                    Text("Bitte gebe deinen Wohnort ein.")
-                        .foregroundColor(.white)
-                        
+                    
                         
                         Spacer()
                         
